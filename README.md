@@ -5,6 +5,10 @@ This app connects to a Python/Flask backend API through Redux/Thunk and stores l
 FILM CTRL is designed to be responsive for both desktops and phone screens/tablets with Material-UI.
 This app uses [Movie Database (IMDB Alternative)](https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative) which is a free API.
 
+![DESKTOP](desktop_demo.gif)
+
+![MOBILE](mobile_demo.gif)
+
 ## Setup
 
 ### BACKEND
