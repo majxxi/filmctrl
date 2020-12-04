@@ -1,4 +1,4 @@
-# fILM CTRL
+# FILM CTRL
 
 FILM CTRL is a JavaScript/React/Redux application that simply lets users search for available movies and decide whether they liked them or not through voting.
 This app connects to a Python/Flask backend API through Redux/Thunk and stores liked (or disliked) movies in a postgreSQL database.
